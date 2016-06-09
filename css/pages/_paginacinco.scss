@@ -1,0 +1,26 @@
+$orange-pastel: #F1B09E;
+$back-orange: #EF6440;
+
+.mrg-bot30 {
+	margin-bottom: 30px;
+}
+.txt-orange {
+	color: $back-orange;
+}
+form {
+	font-family: "bebas___-webfont" !important;
+	color: $back-orange;
+}
+.form-control {
+	color: $back-orange !important;
+}
+textarea  {
+	border: 1px solid $back-orange !important;
+	&:-placeholder {color:$back-orange !important;}
+}
+button {
+	width: 100% !important;
+}
+.width70 {
+	width: 70% !important;
+}

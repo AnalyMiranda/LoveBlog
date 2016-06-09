@@ -1,0 +1,23 @@
+$orange-pastel: #F1B09E;
+$back-orange: #EF6440;
+$txt-40: 40px;
+$txt-white: #FFFFFF;
+
+footer {
+	background-color: $orange-pastel;
+	margin-top: 100px;
+}
+h3 {
+	font-family: "bebas___-webfont" !important;
+}
+.back-footer {
+	background-color: $back-orange;
+	color: $txt-white;
+	width: 98%;
+	height: 100% auto;
+	padding-top: 20px;
+	padding-bottom: 50px;
+	text-align: left;
+	border-left: 30px solid white;
+	border-right: 30px solid white;
+}

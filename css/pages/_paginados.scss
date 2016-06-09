@@ -1,0 +1,38 @@
+$orange-pastel: #F1B09E;
+$back-orange: #EF6440;
+$txt-40: 40px;
+$txt-white: #FFFFFF;
+
+/*SECCIÓN 1*/
+.back-titles {
+	background-color: $back-orange;
+	background-size: 100%;
+	height: 75px;
+	text-align: left;
+	margin-top: 20px;
+	padding-left: 3%;
+	padding-top: 5px;
+	margin-bottom: 50px;
+}
+h2 {
+	color: white;
+	font-family: "bebas___-webfont" !important;
+}
+/*SECCIÓN 2*/
+.mrg-bot15 {
+	margin-top: 15px;
+}
+.box-orange {
+	border: 10px solid $back-orange;
+	color: $back-orange;
+	width: 100%;
+	height: 100% auto;
+	border-top: none;
+	border-right: none;
+	border-bottom: none;
+	margin-left: 50px;
+	margin-top: 70px;
+	padding-left: 30px;
+	padding-right: 100px;
+	margin-bottom: 70px;
+}

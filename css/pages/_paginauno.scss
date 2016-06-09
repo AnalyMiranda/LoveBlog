@@ -1,0 +1,78 @@
+$orange-pastel: #F1B09E;
+$back-orange: #EF6440;
+
+h3 {
+	font-family: "bebas___-webfont" !important;
+	color: $back-orange;
+	font-size: 20px;
+}
+/*SECCIÓN 1*/
+	/*barras slider*/
+	.orange-left {
+		background-color: $orange-pastel;
+		width: 100%;
+		height: 75px;
+		border-left: 3px solid white;
+	}
+	.orange-right {
+		background-color: $orange-pastel;
+		width: 100%;
+		height: 75px;
+		border-right: 3px solid white;
+	}
+/*SECCIÓN 2*/
+	.mrg-top50 {
+		margin-top: 50px;
+	}
+	.mrg-top20 {
+		margin-top: 20px;
+	}
+	/*botones*/
+	.btn-default {
+		background-color: $back-orange !important;
+		color: white !important;
+	}
+/*SECCIÓN 3*/
+.back-heading {
+	background-image: url(../images/heading-bg.png);
+	width: 100%;
+	height: 30px;
+	margin-top: 17px;
+}
+.recent1{
+	background-image: url(../images/recent1.png);
+	background-repeat: no-repeat;
+	background-size: 100%;
+	height: 230px;
+}
+.recent2{
+	background-image: url(../images/recent2.png);
+	background-repeat: no-repeat;
+	background-size: 100%;
+	height: 230px;
+}
+.recent3{
+	background-image: url(../images/recent3.png);
+	background-repeat: no-repeat;
+	background-size: 100%;
+	height: 230px;
+}
+.recent4{
+	background-image: url(../images/recent4.png);
+	background-repeat: no-repeat;
+	background-size: 100%;
+	height: 230px;
+}
+.box-titles {
+	border: 1px solid #B3B3B3;
+	width: 100%;
+	height: 100% auto;
+	border-top: none;
+	padding-left: 10%;
+	color: $back-orange;
+	font-family: "bebas___-webfont" !important;
+}
+h4 {
+	color: #B3B3B3;
+	font-family: "bebas___-webfont" !important;
+}

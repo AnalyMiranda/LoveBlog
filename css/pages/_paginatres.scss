@@ -1,0 +1,31 @@
+$orange-pastel: #F1B09E;
+$back-orange: #EF6440;
+
+/*SECCIÓN 2*/
+.pad-right70{
+	padding-right: 70px;
+}
+.mrg-top50 {
+	margin-top: 50px;
+}
+/*SECCIÓN 5*/
+.box-gray {
+	background-color: #F2F2F2;
+	color: black;
+	padding: 15px 30px 15px 30px;
+	margin-top: 50px;
+	margin-bottom: 50px;
+}
+.txt-gray12 {
+	color: gray;
+	font-size: 12px;
+}
+.btn-group {
+	background-color: $back-orange !important;
+	color: white;
+	font-family: "bebas___-webfont" !important;
+	width: 100% auto;
+	height: 100% auto;
+	padding: 1% 3% 1% 3%;
+	margin-right: 3%;
+}

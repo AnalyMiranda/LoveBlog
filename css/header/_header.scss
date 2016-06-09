@@ -1,0 +1,43 @@
+$back-white: #FFFFFF;
+$trans: transparent;
+header {
+	background-color: white;
+	width: 100%;
+	height: 100px;
+	font-family: "bebas___-webfont";
+}
+	.navbar-brand > h1{
+		color: #EF6440;
+		font-family: "bebas___-webfont" !important;
+	}
+	.navbar-inverse {
+		.navbar-nav > li > a {
+			color: gray;
+		}
+		.navbar-nav > li > a:hover {
+			color:#EF6440;
+			background-color: $trans !important;
+		}
+		.navbar-nav > li > a:focus {
+			color:#EF6440;
+			background-color: $trans !important;
+		}
+	}
+	.navbar-fixed-top {
+		.nav {
+			padding-top: 30px;
+		}
+		.navbar-brand:hover, .navbar-brand:focus {
+			background-color: $trans;
+		}
+	}
+	.navbar-nav{
+		float: right;
+		position: static !important;
+	}
+	.collapse {
+		background-color: #EF6440;
+	}
+	.navbar-collapse {
+			background-color: $back-white;
+		}
